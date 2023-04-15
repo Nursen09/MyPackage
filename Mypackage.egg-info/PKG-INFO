@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Mypackage
+Version: 0.1
+Summary: EDSA test package
+Home-page: https://github.com/Nursen09/Mypackage
+Author: Nursen Naidoo
+Author-email: nursen.naidoo@gmail.com
+License: MIT
+
+# MyPackage
+This library was created as an example of how to publish your own python package.
+
+# How to install..
+......
